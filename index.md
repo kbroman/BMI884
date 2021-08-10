@@ -14,7 +14,7 @@ industry, and teaching. This is a continuation of [BMI
 
 **Course meetings**: Fr 11:00-11:50
 
-**Instructor**: [Karl Broman](https://kbroman.org)
+**Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
 
 **Office hours**: Tu 9:30-10:30, or by appointment
 
