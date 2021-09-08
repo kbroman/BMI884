@@ -15,10 +15,10 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | 4 Mar   |    | Jobs at liberal arts colleges (Guest) |
 | 11 Mar  |    | Non-tenure-track university jobs (Guest) |
 | 18 Mar  |    | **No class** |
-| 25 Mar  |    | Application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-6/1)
-| 1 Apr  |    | Applying for jobs |
-| 8 Apr  |    | Academic job interviews: [preparing for interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews), [interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad) |
-| 15 Apr   |    | Industry job interviews: [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
-| 22 Apr  |    | Teaching: [Teach Tech Together (Ch 10)](https://teachtogether.tech/en/index.html#s:motivation) |
-| 29 Apr  |    | Time management: [Laura Albert video ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww)) |
-| 6 May  |    | TBD |
+| 25 Mar  |    | Discussion of different types of jobs |
+| 1 Apr  |    | Application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-6/1)
+| 8 Apr  |    | Applying for jobs |
+| 15 Apr  |    | Academic job interviews: [preparing for interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews), [interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad) |
+| 22 Apr   |    | Industry job interviews: [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
+| 29 Apr  |    | Teaching: [Teach Tech Together (Ch 10)](https://teachtogether.tech/en/index.html#s:motivation) |
+| 6 May  |    | Time management: [Laura Albert video ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww)) |
