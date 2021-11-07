@@ -12,11 +12,13 @@ making a personal website, job opportunities in universities and
 industry, and teaching. This is a continuation of [BMI
 883](https://kbroman.org/BMI883).
 
+
 **Course meetings**: Fr 11:00-11:50
 
 **Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
 
 **Office hours**: Tu 9:30-10:30, or by appointment
+
 
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
