@@ -12,9 +12,4 @@ of discussion.
 
 ### Homework assignments
 
-There will be two written homework assignments.
-The homework assignments may include: creating a personal website,
-writing a cover letters for applications to an academic and an
-industry position, constructing a CV and a resume, or writing a short
-essay on motivating and demotivating learning experiences they have
-had.
+There will be **no** written homework assignments this semester.

@@ -63,14 +63,8 @@ I ask that everyone strive toward the following:
 
 ### Course grade
 
-Course grade will be based on class participation (70%)
-and two homework assignments (30%).
-
-The homework assignments may include: creating a personal website,
-writing a cover letters for applications to an academic and an
-industry position, constructing a CV and a resume, or writing a short
-essay on motivating and demotivating learning experiences they have
-had.
+Course grade will be based solely on class participation.
+There will be **no** written homework assignments this semester.
 
 The class participation grade will be based on participation in each
 session, scored according to the following rubric:
@@ -97,9 +91,7 @@ session, scored according to the following rubric:
 **Grading scale**: 92-100 (A), 87-91 (AB), 82-86 (B), 77-81 (BC), 70-76
 (C), 60-69 (D), <60 (F)
 
-Students are encouraged to discuss course content and homework
-assignments with each other, but the article summaries and homework
-assignments are to be each student’s own, separate work.
+Students are encouraged to discuss course content with each other.
 
 ### Assignments
 
@@ -112,12 +104,7 @@ of discussion.
 
 #### Homework assignments
 
-There will be four written homework assignments.
-The homework assignments will include: creating a personal website,
-writing a cover letters for applications to an academic and an
-industry position, constructing a CV and a resume, and writing a short
-essay on motivating and demotivating learning experiences they have
-had.
+There will be **no** written homework assignments this semester.
 
 
 ### Religious observances or other absences
