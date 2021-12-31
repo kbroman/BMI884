@@ -24,11 +24,8 @@ industry, and teaching.
 
 ### Learning outcomes
 
-- Students will be able to prepare a web-based profile of their research efforts and products.
 - Students will be able to describe good practices for research scientists’ participation in social media.
-- Students will be able to define sexual harassment and describe practices for handling sexual harassment
 - Students will be able to describe strategies for forming and managing scientific collaborations.
-- Students will be able to construct a personal website for networking and self-promotion.
 - Students will be able to identify employment opportunities at universities and in industry and demonstrate understanding of strategies for applying and interviewing for such positions.
 - Students will be able to describe and compare different teaching practices and methods for motivating students.
 
