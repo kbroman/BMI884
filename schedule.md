@@ -13,7 +13,7 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | 18 Feb  |    | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
 | 25 Feb  |    | Jobs at predominantly undergraduate institutions (Guest: [Amelia McNamara](https://www.amelia.mn)) |
 | 4 Mar   |    | Non-tenure-track university jobs (Guest: [Erin Jonaitis](https://www.adrc.wisc.edu/erin-jonaitis-phd)) |
-| 11 Mar  |    | Jobs in industry (Guest) |
+| 11 Mar  |    | Jobs in industry (Guest: Barathi Sethuraman, Abbott) |
 | 18 Mar  |    | **No class** (Spring break) |
 | 25 Mar  |    | Discussion of different types of jobs |
 | 1 Apr   |    | Application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-6/1)
