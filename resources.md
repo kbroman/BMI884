@@ -21,6 +21,9 @@ description: Resources for BMI 884, Biomedical data science professional skills
 - [Beyond the professoriate](https://beyondprof.com/aurora/)
   (available to UW-Madison community)
 
+- [Pipers, droppers, nevers, and hoppers: Observed career pathways
+  among STEM PhD scientists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939090)
+
 ### Academic jobs
 
 - [Academic job market interviewing and negotiation](http://web.archive.org/web/20181221203426/https://www.sciencewithdrdoom.com/blog-1/2018/4/1/academic-job-market-interviewing-negotiation)
