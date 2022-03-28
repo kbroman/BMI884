@@ -24,6 +24,10 @@ description: Resources for BMI 884, Biomedical data science professional skills
 - [Pipers, droppers, nevers, and hoppers: Observed career pathways
   among STEM PhD scientists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939090)
 
+### Postdocs
+
+- [In praise of postdocs (pdf)](https://imstat.org/wp-content/uploads/Bulletin32_6.pdf#page=4)
+
 ### Academic jobs
 
 - [Academic job market interviewing and negotiation](http://web.archive.org/web/20181221203426/https://www.sciencewithdrdoom.com/blog-1/2018/4/1/academic-job-market-interviewing-negotiation)
