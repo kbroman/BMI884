@@ -21,4 +21,4 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | 15 Apr  |    | Academic job interviews: [preparing for interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews), [interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad) |
 | 22 Apr   |    | Industry job interviews: [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
 | 29 Apr  |    | Teaching: [Teach Tech Together (Ch 10)](https://teachtogether.tech/en/index.html#s:motivation) |
-| 6 May  |    | Time management: [Laura Albert video ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww)) |
+| 6 May  |    | Time management: [Laura Albert video ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww) |
