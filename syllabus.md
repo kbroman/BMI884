@@ -10,9 +10,10 @@ description: Syllabus for BMI 884, Biomedical data science professional skills
 
 **Course meetings**: Fr 11:00-11:50
 
-**Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
+**Instructor**: [Karl Broman](https://kbroman.org),
+[6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
 
-**Office hours**: Tu 9:30-10:30, or by appointment
+**Office hours** by appointment
 
 A variety of skills that are important for a successful research
 career are often left to students to develop on their own. This course

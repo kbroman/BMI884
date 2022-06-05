@@ -16,9 +16,10 @@ industry, and teaching. This is a continuation of [BMI
 **Course meetings**: Fr 11:00-11:50, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
 or via zoom (link at [canvas site](https://canvas.wisc.edu/courses/295305))
 
-**Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
+**Instructor**: [Karl Broman](https://kbroman.org),
+[6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
 
-**Office hours**: Tu 9:30-10:30, or by appointment
+**Office hours** by appointment
 
 
 - [schedule](schedule.html)
