@@ -8,7 +8,7 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
 | 27 Jan  |    | No class |
-| 3 Feb   |    | Success in collaboration: [Bennett and Gadlin (2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652225/) |
+| 3 Feb   |    | Success in collaboration (listening): [HBR re listening](https://hbr.org/2021/12/how-to-become-a-better-listener), [How to talk so kids will listen... (ch 1)](https://bit.ly/3HhnFHY) |
 | 10 Feb  |    | Social media: [Carl Sagan effect](https://doi.org/10.1523/JNEUROSCI.0086-16.2016); [Building a brand](https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/) |
 | 17 Feb  |    | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
 | 24 Feb  |    | Jobs at predominantly undergraduate institutions (guest) |
@@ -23,4 +23,6 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | 28 Apr  |    | Teaching: [Teach Tech Together (Ch 10)](https://teachtogether.tech/en/index.html#s:motivation) |
 | 5 May  |    | Time management: [Laura Albert video ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww) |
 
-- PDFs for this course will be posted on the [Canvas site](https://canvas.wisc.edu/courses/345140)
+---
+
+PDFs for this course will be posted on the [Canvas site](https://canvas.wisc.edu/courses/345140)
