@@ -22,3 +22,5 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | 21 Apr   |    | Industry job interviews: [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
 | 28 Apr  |    | Teaching: [Teach Tech Together (Ch 10)](https://teachtogether.tech/en/index.html#s:motivation) |
 | 5 May  |    | Time management: [Laura Albert video ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww) |
+
+- PDFs for this course will be posted on the [Canvas site](https://canvas.wisc.edu/courses/345140)
