@@ -118,3 +118,4 @@ statements](https://guide.wisc.edu/courses/#syllabustext):
 - [Academic Integrity Statement](https://guide.wisc.edu/courses/#SyllabusAcademicIntegrity)
 - [Accommodations for Students with Disabilities](https://guide.wisc.edu/courses/#SyllabusAccommodations)
 - [Academic Calendar and Religious Observances](https://guide.wisc.edu/courses/#SyllabusCalendarReligiousObservances)
+- [SMPH Statement of Non-Discrimination Policy](https://www.med.wisc.edu/about-us/statement-of-non-discrimination/)
