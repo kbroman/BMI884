@@ -13,7 +13,7 @@ industry, and teaching. This is a continuation of [BMI
 883](https://kbroman.org/BMI883).
 
 
-**Course meetings**: Fr 11:00-11:50, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
+**Course meetings**: Fr 11:00-11:50, [4765 Medical Sciences Center](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
 
 **Instructor**: [Karl Broman](https://kbroman.org),
 [6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
