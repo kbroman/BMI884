@@ -25,6 +25,3 @@ industry, and teaching. This is a continuation of [BMI
 - [syllabus](syllabus.html)
 - [assignments](assignments.html)
 - [resources](resources.html)
-
-**<font color="tomato">Course meeting on 2023-02-03 via zoom</font>**
-(see link on [canvas site](https://canvas.wisc.edu/courses/345140))
