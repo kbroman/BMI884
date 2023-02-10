@@ -9,6 +9,7 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | :------ | -- | :----- |
 | 27 Jan  |    | No class |
 | 3 Feb   |    | Success in collaboration (listening): [HBR re listening](https://hbr.org/2021/12/how-to-become-a-better-listener), [How to talk so kids will listen... (ch 1)](https://bit.ly/3HhnFHY) |
+|         |    | (**<font color="tomato">meet 2023-02-03 via zoom</font>; see link in [canvas](https://canvas.wisc.edu/courses/345140)**) |
 | 10 Feb  |    | Social media: [Carl Sagan effect](https://doi.org/10.1523/JNEUROSCI.0086-16.2016); [Building a brand](https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/) |
 | 17 Feb  |    | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
 | 24 Feb  |    | Jobs at predominantly undergraduate institutions (guest) |
