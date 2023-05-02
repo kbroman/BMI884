@@ -17,8 +17,12 @@ Past versions:
 
 - [Spring, 2021](https://kbroman.org/BMI884_spring2021/)
   [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI884_spring2021/)
+
 - [Spring, 2022](https://kbroman.org/BMI884_spring2022/)
   [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI884_spring2022/)
+
+- [Spring, 2023](https://kbroman.org/BMI884_spring2023/)
+  [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI884_spring2023/)
 
 ---
 
